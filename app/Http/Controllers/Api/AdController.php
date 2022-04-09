@@ -12,7 +12,7 @@ use App\Models\Notification;
 use App\Models\Rating;
 use App\Models\Report;
 use App\Models\Slider;
-use App\User;
+use App\Models\User;
 use Edujugon\PushNotification\PushNotification;
 use Illuminate\Http\Request;
 use Illuminate\Support\Arr;

@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Models\Notification;
 use App\Models\Rating;
 use Illuminate\Support\Facades\Auth;
-use App\User;
+use App\Models\User;
 use Illuminate\Http\Request;
 use Edujugon\PushNotification\PushNotification;
 

@@ -6,7 +6,7 @@ use App\Models\Order;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Validator;
-use App\User;
+use App\Models\User;
 use Auth;
 use Illuminate\Support\Str;
 

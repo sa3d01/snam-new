@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Api;
 
 use App\Models\Ad;
 use App\Models\Chat;
-use App\User;
+use App\Models\User;
 use Auth;
 use Edujugon\PushNotification\PushNotification;
 use Illuminate\Http\Request;
