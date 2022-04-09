@@ -7,7 +7,7 @@ use App\Models\Ad;
 use App\Models\Chat;
 use App\Models\City;
 use App\Models\Favourite;
-use App\User;
+use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Arr;
 use Validator;
